@@ -18,7 +18,7 @@ this is a self closing tag. The forward slash after the tag is **optional**.
 ```html
 <img src="test.jpg" />
 ```
-width atrribute hack:
+width attribute hack:
 ```html
 <img src="test.jpg" width="100%"/>
 ```
