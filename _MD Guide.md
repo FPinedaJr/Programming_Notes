@@ -1,7 +1,7 @@
 --------------------------------------------------
 # Hotkeys
-[Anne Pro Only] `caps lock + esc`  to type `(``)`
-[Anne Pro Only] `shift + caps lock + esc`  to type  (~)
+- [Anne Pro Only] `caps lock + esc`  to type `(``)`
+- [Anne Pro Only] `shift + caps lock + esc`  to type  (~)
 
 --------------------------------------------------
 # First Heading (1 #)
